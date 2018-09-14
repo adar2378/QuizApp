@@ -18,7 +18,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/index.html.
 
 At first you will have to go to the directory where the java files are cloned or downloaded. Then follow these instructions.
 
-Say what the step will be
+Replace <Directory> with your directory address
 
 ```java
 cd <Directory>/QuizApp/Quiz/src/quiz/
