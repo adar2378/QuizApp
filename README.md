@@ -32,7 +32,8 @@ After that you will find the .class files in the directory where your StartFrame
 ```
 java StartFrame
 ```
-Something like this will appear in your Screen.
+Something like this will appear in your Screen.<br>
+
 ![image](https://image.ibb.co/f9MfN9/pic1.png)
 
 ## Built With
