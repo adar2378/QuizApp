@@ -20,16 +20,16 @@ At first you will have to go to the directory where the java files are cloned or
 
 Say what the step will be
 
-```
+```java
 cd <Directory>/QuizApp/Quiz/src/quiz/
 ```
-Now to compile to java file run the following command
+Now to compile the java file, run the following command
 
-```
+```java
 javac StartFrame.java
 ```
-After that you will find the .class files in the directory where your StartFrame.java file is. And Now to launch the application use:
-```
+After that you will find the ".class" files in the directory where your StartFrame.java file is. And Now to launch the application use:
+```java
 java StartFrame
 ```
 Something like this will appear in your Screen.<br>
