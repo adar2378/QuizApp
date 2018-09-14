@@ -40,7 +40,7 @@ Something like this will appear in your Screen.<br>
 
 * [Java swing](https://docs.oracle.com/javase/tutorial/uiswing/) - The framework used for UI
 * [Java AWT](https://docs.oracle.com/javase/7/docs/api/java/awt/) - Also used for UI
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 
 
 
